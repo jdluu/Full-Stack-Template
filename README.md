@@ -28,7 +28,7 @@ Follow these steps to install and set up the project locally:
 2. **Clone the repository**:
 
    ```shell
-   git clone <https://github.com/jdluu/improved-octo-potato.git>
+   git clone <https://github.com/jdluu/FullStackTemplate.git>
    ```
 
 3. **Install the dependencies**:
