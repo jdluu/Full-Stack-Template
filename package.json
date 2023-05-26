@@ -3,9 +3,9 @@
 		"concurrently": "^8.0.1"
 	},
 	"scripts": {
+		"install:all": "npm install && cd client && npm install && cd ../server && npm install",
 		"start": "concurrently \"npm run start:client\" \"npm run start:server\"",
 		"start:client": "cd client && npx next dev",
-		"start:server": "cd server && node server.js",
-		"install:all": "cd client && npm install && cd ../server && npm install"
+		"start:server": "cd server && node server.js"
 	}
 }
