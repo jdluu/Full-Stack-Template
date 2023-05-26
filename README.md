@@ -43,13 +43,13 @@ Follow these steps to install and set up the project locally:
     npm run start
    ```
 
-   **Start just the client**
+   **Start client-side only**
 
    ```shell
     npm run start:client
    ```
 
-   **Start just the server**
+   **Start server-side only**
 
    ```shell
     npm run start:server
