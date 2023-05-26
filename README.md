@@ -1,6 +1,6 @@
-# Full Stack Project
+# Full Stack Project Template
 
-A full stack project built with React, Node.js, Express, and MongoDB.
+A full stack project template with React, Node.js, Express, and MongoDB.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Follow these steps to install and set up the project locally:
 2. **Clone the repository**:
 
    ```shell
-   git clone <https://github.com/jdluu/FullStackTemplate.git>
+   git clone https://github.com/jdluu/Full-Stack-Template.git
    ```
 
 3. **Install the dependencies**:
@@ -58,6 +58,14 @@ Follow these steps to install and set up the project locally:
 ## Usage
 
 Explain how to use the project or provide examples of its usage. You can include code snippets, screenshots, or even GIFs to showcase the project's functionality.
+
+## Documentation & Resources
+
+React: <https://reactjs.org/docs/getting-started.html>
+Next.js: <https://nextjs.org/docs/getting-started>
+Node.js: <https://nodejs.org/en/docs/>
+Express: <https://expressjs.com/en/4x/api.html>
+MongoDB: <https://docs.mongodb.com/manual/>
 
 ## Additional Sections (Optional)
 
