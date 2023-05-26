@@ -24,6 +24,8 @@ Follow these steps to install and set up the project locally:
 1. **Prerequisites**: Ensure that you have the following dependencies installed:
 
    - Node.js (v18.16.0 or higher): [Download Node.js](https://nodejs.org/)
+   - Create a MongoDB Atlas account: [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
+   - Replace .envTemp with .env and place your MongoDB Atlas connection string in the MONGODB_URI variable
 
 2. **Clone the repository**:
 
