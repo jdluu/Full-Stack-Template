@@ -3,7 +3,7 @@ const express = require("express");
 // Create an instance of Express
 const app = express();
 // Define server port
-const port = 3000;
+const port = 3001;
 // Use express.json() middleware to parse incoming request body as JSON
 app.use(express.json());
 
