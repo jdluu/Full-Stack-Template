@@ -71,6 +71,16 @@ Express: <https://expressjs.com/en/4x/api.html>
 
 MongoDB: <https://docs.mongodb.com/manual/>
 
+## Additional Sections (Optional)
+
+Depending on your project, you may include additional sections in the README.md file. Some common examples include:
+
+- Deployment instructions
+- Testing instructions
+- API documentation
+- Troubleshooting or frequently asked questions (FAQ)
+- Acknowledgments or credits
+
 ## License
 
 The MIT License (MIT)
@@ -96,13 +106,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Additional Sections (Optional)
-
-Depending on your project, you may include additional sections in the README.md file. Some common examples include:
-
-- Deployment instructions
-- Testing instructions
-- API documentation
-- Troubleshooting or frequently asked questions (FAQ)
-- Acknowledgments or credits
