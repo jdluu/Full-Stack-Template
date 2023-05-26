@@ -8,6 +8,9 @@
 # Ignore build files
 /client/build
 
+# Ignore next files
+/client/.next
+
 # Ignore cache files
 *.cache
 *.log
