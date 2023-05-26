@@ -19,7 +19,41 @@ List the key features or functionalities of the project. This section can also i
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up the project locally. Include any dependencies or prerequisites that need to be installed beforehand.
+Follow these steps to install and set up the project locally:
+
+1. **Prerequisites**: Ensure that you have the following dependencies installed:
+
+   - Node.js (v18.16.0 or higher): [Download Node.js](https://nodejs.org/)
+
+2. **Clone the repository**:
+
+   ```shell
+   git clone <https://github.com/jdluu/improved-octo-potato.git>
+   ```
+
+3. **Install the dependencies**:
+
+   ```shell
+   npm run install:all
+   ```
+
+4. **Start the development server**:
+
+   ```shell
+    npm run start
+   ```
+
+   **Start just the client**
+
+   ```shell
+    npm run start:client
+   ```
+
+   **Start just the server**
+
+   ```shell
+    npm run start:server
+   ```
 
 ## Usage
 
