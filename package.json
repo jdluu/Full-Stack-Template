@@ -1,6 +1,7 @@
 {
 	"devDependencies": {
-		"concurrently": "^8.0.1"
+		"concurrently": "^8.0.1",
+		"dotenv": "^16.0.3"
 	},
 	"scripts": {
 		"install:all": "npm install && cd client && npm install && cd ../server && npm install",
